@@ -1,0 +1,323 @@
+* { margin: 0;padding: 0;}
+
+.main {}
+
+.one {}
+
+#s {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#h {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#e {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#i {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#k {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#hx {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#a {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#g {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#c {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#r {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#x {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#z {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 5.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.two {}
+
+#q {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 15.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#w {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 15.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#t {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 15.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#y {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 15.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#u {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 15.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#o {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 14.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.threr {}
+
+#p {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 22.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#l {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 22.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#ko {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 22.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#j {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 22.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.four {}
+
+#f {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 31.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#d {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 31.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#cr {
+    background: rgb(145, 255, 163);
+        border: 1px solid rgb(67, 103, 128);
+    width: 31.33%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.five {}
+
+#b {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 48%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+#v {
+    background: rgb(145, 255, 163);
+    border: 1px solid rgb(67, 103, 128);
+    width: 48%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.six {}
+
+#m {
+    background: rgb(145, 255, 163);  
+      border: 1px solid rgb(67, 103, 128);
+    width: 98%;
+    margin-top: 10px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+}
